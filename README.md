@@ -1,6 +1,6 @@
 # jpa02-divyanipunj
 
-Repo: https://ucsb-cs156-f25/jpa02-divyanipunj
+Repo: https://github.com/ucsb-cs156-f25/jpa02-divyanipunj
 
 Deployed at: https://jpa02-divyanipunj.dokku-00.cs.ucsb.edu
 
